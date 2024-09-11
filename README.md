@@ -2,7 +2,7 @@
 
 # California Housing : Price Rate
 
-This project is the practice project of my MAchine Learning lessons and it helps to predict the median value of the house baased on certain attributes.
+This project is the practice project of my Machine Learning lessons and it helps to predict the median value of the households baased on certain attributes.
 
-use of 
+created with the help of 
 # Sklearn and Pandas
